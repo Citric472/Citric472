@@ -1,6 +1,14 @@
-<marquee behavior="scroll" direction="left" scrollamount="5">
+<span style="display: inline-block; white-space: nowrap; animation: marquee 10s linear infinite;">
   Hello, I'm Cynthia Langat! 👋
-</marquee>
+</span>
+
+<style>
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+</style>
+
 
 Welcome to my GitHub profile! I'm a passionate junior full-stack developer with a keen interest in building dynamic, user-friendly web applications. Here's a bit more about me:
 
