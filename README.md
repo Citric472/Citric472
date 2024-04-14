@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Cynthia Langat! 👋
 
 
 Welcome to my GitHub profile! I'm a passionate junior full-stack developer with a keen interest in building dynamic, user-friendly web applications. Here's a bit more about me:
