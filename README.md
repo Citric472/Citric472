@@ -1,13 +1,4 @@
-<span style="display: inline-block; white-space: nowrap; animation: marquee 10s linear infinite;">
-  Hello, I'm Cynthia Langat! 👋
-</span>
-
-<style>
-@keyframes marquee {
-  0% { transform: translateX(100%); }
-  100% { transform: translateX(-100%); }
-}
-</style>
+![Hello, I'm Cynthia Langat!](<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="480" src="https://giphy.com/embed/FV9a3qFAhUfHVtV6eq/video" width="480"></iframe></div>)
 
 
 Welcome to my GitHub profile! I'm a passionate junior full-stack developer with a keen interest in building dynamic, user-friendly web applications. Here's a bit more about me:
