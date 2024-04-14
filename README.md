@@ -1,4 +1,4 @@
-# Hello, I'm Cynthia Langat!
+# Hello, I'm [Your Name]! 👋
 
 
 Welcome to my GitHub profile! I'm a passionate junior full-stack developer with a keen interest in building dynamic, user-friendly web applications. Here's a bit more about me:
@@ -40,6 +40,6 @@ Used external API for fetching lyrics and JSON server for storing liked songs.
 ## ✨ Interests
 - [I love dancehall music]
 - [Cooking and trying new dishes is my hobby]
-- [I always aspire to start working out(monthly resolution)]
+- [I always aspire to start working out(monthly resolution 😄)]
 
 Thanks for visiting my profile! I'm always open to new opportunities and collaborations, so feel free to reach out!
