@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate junior full-stack developer with 
 - **Frontend**: HTML, CSS, JavaScript, React, Angular, Vue.js
 - **Backend**: Node.js, Express.js, Python, Django, Flask
 - **Database**: MySQL, PostgreSQL, MongoDB
-- **Tools & Technologies**: Git, Docker, GitHub Actions
+- **Tools & Technologies**: Git, Docker, GitHub Actions.
 
 ## 🌱 Currently Learning
 - Improving my skills in Python with Flask.
