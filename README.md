@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F71158&background=22222200&random=false&width=435&lines=Hello!+I'm+Cynthia+Langat.+%F0%9F%91%8B;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm a passionate junior full-stack developer with a keen interest in building dynamic, user-friendly web applications. Here's a bit more about me:
+I'm a passionate junior full-stack developer with a keen interest in building dynamic, user-friendly web applications. Here's a bit more about me:
 
 ## 🛠️ Skills
 - **Frontend**: HTML, CSS, JavaScript, React, Angular, Vue.js
