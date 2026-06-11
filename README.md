@@ -18,20 +18,26 @@ I'm a passionate full-stack developer with a keen interest in building dynamic, 
 - Email: [chepkemoicynthia4@gmail.com]
 
 ## 💻 Projects
-- CommandFit (https://github.com/Citric472/commandFit): CommandFit is a command-line fitness assistant designed to help users manage their workouts, track progress, and set fitness goals directly from the terminal. It offers features such as user registration, login/logout functionality, workout plan creation, exercise logging, goal setting, and viewing user details. 
-● Designed and implemented the CLI interface using Python. 
-● Integrated SQLite database for data storage and retrieval. 
-● Implemented user authentication and authorization functionalities. 
-● Developed functionalities for creating and viewing workout plans. 
-● Added features for logging exercises and setting fitness goals. 
+EventFlow – Event Management Platform - https://github.com/Citric472/event-management-system
+Tech Stack: React, TypeScript, FastAPI, PostgreSQL, Docker, AWS
 
-- Cinebuddy (https://github.com/DavisOmbuki/Cinemate): Cinebuddy is a React-based movie recommendation app that allows users to browse random movies, view trending movies and Tv Shows and get detailed information about selected movies and Tv shows. 
-● Integrated with the backend server using Axios for RESTFUL API requests. 
-● Implemented features like removing and adding items to and from the watchlist, fetching movies and Tv show details     from an external API and displaying posters and details dynamically. 
-● Utilized React router for navigation and managed state using React Hooks. 
+Designed and developed a full-stack event management platform that enables organizers to create, manage, and monitor events through a centralized dashboard.
 
-- MelodyMate (https://github.com/Citric472/lyrics-finder): Developed a JavaScript  web app that allows users to search for song lyrics and like their favorites.
-Used external API for fetching lyrics and JSON server for storing liked songs.
+• Built a role-based authentication and authorization system supporting Administrators, Organizers, and Attendees.
+• Developed RESTful APIs using FastAPI for event creation, ticket management, attendee registration, and analytics.
+• Designed a PostgreSQL database schema supporting event scheduling, venue management, payments, and attendee tracking.
+• Implemented real-time event statistics and reporting dashboards for monitoring registrations and revenue.
+• Containerized services using Docker and automated deployment workflows using CI/CD pipelines.
+• Improved event management efficiency through centralized operations and automated workflows.
+
+AquaFlow Africa – Smart Water Management Platform - https://github.com/Citric472/aqua-flow-africa
+Tech Stack: React, FastAPI, PostgreSQL, Docker, AWS/GCP
+
+Developed a platform that enables communities, organizations, and water providers to monitor water access, consumption, and infrastructure performance.
+Built secure REST APIs for water point management, user registration, and reporting workflows.
+Designed dashboards for visualizing water usage trends, maintenance records, and operational metrics.
+Implemented role-based access control for administrators, field officers, and community users.
+Containerized services using Docker and deployed cloud-ready infrastructure for scalability and reliability.
 
 
 ## 🔧 Contribution Stats
