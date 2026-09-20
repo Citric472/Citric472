@@ -4,13 +4,13 @@
 I'm a passionate full-stack developer with a keen interest in building dynamic, user-friendly web applications. Here's a bit more about me:
 
 ## 🛠️ Skills
-- **Frontend**: HTML, CSS, JavaScript, React, Angular, Vue.js, TypeScript
-- **Backend**: Node.js, Express.js, Python, Django, Flask, GoLang
+- **Frontend**: HTML, CSS, JavaScript, React, TypeScript
+- **Backend**: Node.js, Express.js, Python, Django, Flask, GoLang, FastAPI
 - **Database**: MySQL, PostgreSQL, MongoDB, Firebase, Supabase
 - **Tools & Technologies**: Git, Docker, GitHub Actions.
 
 ## 🌱 Currently Learning
-- Improving my skills in Rust
+- Improving my skills in Rust, Golang, TypeScript
 - Exploring more about cloud services like AWS, Azure, or Google Cloud Platform.
 
 ## 📫 Let's Connect
@@ -19,7 +19,7 @@ I'm a passionate full-stack developer with a keen interest in building dynamic, 
 
 ## 💻 Projects
 EventFlow – Event Management Platform - https://github.com/Citric472/event-management-system
-Tech Stack: React, TypeScript, FastAPI, PostgreSQL, Docker, AWS
+Tech Stack: React, FastAPI, PostgreSQL
 
 Designed and developed a full-stack event management platform that enables organizers to create, manage, and monitor events through a centralized dashboard.
 
@@ -31,7 +31,7 @@ Designed and developed a full-stack event management platform that enables organ
 • Improved event management efficiency through centralized operations and automated workflows.
 
 AquaFlow Africa – Smart Water Management Platform - https://github.com/Citric472/aqua-flow-africa
-Tech Stack: React, FastAPI, PostgreSQL, Docker, AWS/GCP
+Tech Stack: React, FastAPI, PostgreSQL
 
 Developed a platform that enables communities, organizations, and water providers to monitor water access, consumption, and infrastructure performance.
 Built secure REST APIs for water point management, user registration, and reporting workflows.
