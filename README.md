@@ -43,28 +43,28 @@ A digital platform concept focused on improving water management, monitoring, an
 
 #Focus Areas:
 
--Water resource management
--Data visualization
--Infrastructure monitoring
--Reporting workflows
--Role-based access
--Digital tools for communities and organizations
+- Water resource management
+- Data visualization
+- Infrastructure monitoring
+- Reporting workflows
+- Role-based access
+- Digital tools for communities and organizations
 
 ##🌱 Currently Learning
--Advanced TypeScript
--Go/Golang
--Backend architecture
--Automated testing
--Cloud deployment
--Data Science fundamentals
+- Advanced TypeScript
+- Go/Golang
+- Backend architecture
+- Automated testing
+- Cloud deployment
+- Data Science fundamentals
 
 ##💡 Areas I'm Interested In
--Full-Stack Web Development
--Backend Engineering
--REST API Development
--Cloud Computing
--Software Testing & QA
--Data & AI Applications
+- Full-Stack Web Development
+- Backend Engineering
+- REST API Development
+- Cloud Computing
+- Software Testing & QA
+- Data & AI Applications
 
 ## 📫 Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/cynthialangat/]
