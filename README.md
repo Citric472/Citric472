@@ -10,9 +10,7 @@ I enjoy working across the frontend, backend, APIs, databases, and cloud technol
 - **Database**: MySQL, PostgreSQL, MongoDB, Firebase, Supabase
 - **Tools & Technologies**: Git, Docker, GitHub Actions.
 
-## 🌱 Currently Learning
-- Improving my skills in Rust, Golang, TypeScript
-- Exploring more about cloud services like AWS, Azure, or Google Cloud Platform.
+
 
 ## 📫 Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/cynthialangat/]
@@ -24,26 +22,26 @@ Tech Stack: React, Vite, Python, FastAPI, SQLAlchemy,  SQLite, Tailwind CSS
 
 A full-stack event management platform that allows users to discover venues and vendors, view details, and submit booking requests, with administrative tools for managing the platform.
 
-Key Features:
+#Key Features:
 
--User authentication and role-based access
--Admin dashboard
--Public venue marketplace
--Public vendor marketplace
--Venue and vendor details
--Venue booking requests
--Vendor booking requests
--Search and filtering
--RESTful API integration
--Database migrations with Alembic
--Responsive user interface.
+- User authentication and role-based access
+- Admin dashboard
+- Public venue marketplace
+- Public vendor marketplace
+- Venue and vendor details
+- Venue booking requests
+- Vendor booking requests
+- Search and filtering
+- RESTful API integration
+- Database migrations with Alembic
+- Responsive user interface.
 
 AquaFlow Africa – Smart Water Management Platform - https://github.com/Citric472/aqua-flow-africa
 Tech Stack: React, FastAPI, PostgreSQL
 
 A digital platform concept focused on improving water management, monitoring, and operational decision-making through technology.
 
-Focus Areas:
+#Focus Areas:
 
 -Water resource management
 -Data visualization
@@ -52,7 +50,7 @@ Focus Areas:
 -Role-based access
 -Digital tools for communities and organizations
 
-🌱 Currently Learning
+##🌱 Currently Learning
 -Advanced TypeScript
 -Go/Golang
 -Backend architecture
@@ -60,13 +58,18 @@ Focus Areas:
 -Cloud deployment
 -Data Science fundamentals
 
-💡 Areas I'm Interested In
+##💡 Areas I'm Interested In
 -Full-Stack Web Development
 -Backend Engineering
 -REST API Development
 -Cloud Computing
 -Software Testing & QA
 -Data & AI Applications
+
+## 📫 Let's Connect
+- LinkedIn: [https://www.linkedin.com/in/cynthialangat/]
+- Email: [chepkemoicynthia4@gmail.com]
+
 
 ## 🔧 Contribution Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Citric472&show_icons=true&theme=default)
