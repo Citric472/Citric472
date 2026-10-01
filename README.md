@@ -18,7 +18,7 @@ I enjoy working across the frontend, backend, APIs, databases, and cloud technol
 
 ## 💻 Projects
 EventFlow – Event Management & Marketplace Platform - https://github.com/Citric472/event-management-system
-Tech Stack: React, Vite, Python, FastAPI, SQLAlchemy,  SQLite, Tailwind CSS
+- Tech Stack: React, Vite, Python, FastAPI, SQLAlchemy,  SQLite, Tailwind CSS
 
 A full-stack event management platform that allows users to discover venues and vendors, view details, and submit booking requests, with administrative tools for managing the platform.
 
@@ -37,7 +37,7 @@ A full-stack event management platform that allows users to discover venues and 
 - Responsive user interface.
 
 AquaFlow Africa – Smart Water Management Platform - https://github.com/Citric472/aqua-flow-africa
-Tech Stack: React, FastAPI, PostgreSQL
+- Tech Stack: React, FastAPI, PostgreSQL
 
 A digital platform concept focused on improving water management, monitoring, and operational decision-making through technology.
 
